@@ -7,7 +7,7 @@
 <p align="center">
   Toggleable reminders app for Mac, Linux and Windows
   <br/>
-  <a href="https://github.com/probablykasper/remind-me-again/releases"><b>Download for Mac, Windows or Linux</b></a>
+  <a href="https://github.com/kasper9n/remind-me-again/releases"><b>Download for Mac, Windows or Linux</b></a>
 </p>
 
 <p align='center'>

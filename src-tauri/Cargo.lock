@@ -1852,7 +1852,7 @@ dependencies = [
 [[package]]
 name = "mac-notification-sys"
 version = "0.5.6"
-source = "git+https://github.com/probablykasper/mac-notification-sys?rev=43a2fbf9c4ef8717f7736a99c456e21725ab274d#43a2fbf9c4ef8717f7736a99c456e21725ab274d"
+source = "git+https://github.com/kasper9n/mac-notification-sys?rev=43a2fbf9c4ef8717f7736a99c456e21725ab274d#43a2fbf9c4ef8717f7736a99c456e21725ab274d"
 dependencies = [
  "cc",
  "dirs-next",
@@ -2704,7 +2704,7 @@ dependencies = [
  "atomicwrites",
  "chrono",
  "cocoa",
- "mac-notification-sys 0.5.6 (git+https://github.com/probablykasper/mac-notification-sys?rev=43a2fbf9c4ef8717f7736a99c456e21725ab274d)",
+ "mac-notification-sys 0.5.6 (git+https://github.com/kasper9n/mac-notification-sys?rev=43a2fbf9c4ef8717f7736a99c456e21725ab274d)",
  "macos-app-nap",
  "nanoid",
  "objc",
